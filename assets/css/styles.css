@@ -1,5 +1,5 @@
 :root {
-    /* --primary-color: linear-gradient(to bottom, #dd2476, #ff512f); */
+    --primary-color: linear-gradient(to bottom, #dd2476, #ff512f);
   }
   * {
     box-sizing: border-box;
@@ -46,7 +46,7 @@
     letter-spacing: 4px;
   }
   header .container .col-md-7 {
-    font-family: ;
+    font-family: "Rubik",sans-serif;
   }
   header .container .col-md-7 h1 {
     padding: 0.1em 0em;
